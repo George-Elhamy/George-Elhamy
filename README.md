@@ -33,10 +33,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=George-Elhamy&show_icons=true&locale=en" alt="George-Elhamy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=George-Elhamy&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
-</p>
+| <a href="https://github.com/George-Elhamy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=George-Elhamy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="George's GitHub stats" /></a> | <a href="https://github.com/George-Elhamy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Elhamy&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <!--
 <picture>
