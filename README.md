@@ -2,10 +2,21 @@
 <p>A software engineer with a strong passion for AI and Data Science.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
+  <a target="_blank" href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="java" width="42" height="42" />
+  </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="42" height="42" />
+  </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <a target="_blank" href="https://spring.io/projects/spring-boot">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+         alt="spring boot" width="42" height="42" />
+  </a>
+</p>
 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=George-Elhamy&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="George's GitHub stats" /></td>
