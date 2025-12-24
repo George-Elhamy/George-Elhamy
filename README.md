@@ -19,11 +19,11 @@
 </p>
 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=George-Elhamy&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="George's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=George-Elhamy&show_icons=true&cache_seconds=86400&hide_border=true" />
+</td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Elhamy&layout=compact&theme=default&hide_border=true" alt="Top Languages" /></td>
   </tr>
 </table>
-
 
 <!--
 <picture>
